@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionIP", "SolutionIP\SolutionIP.csproj", "{6469A517-EA12-49C7-A440-D105704801C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPSocket-Server", "TCPSocket-Server\TCPSocket-Server.csproj", "{AB7492EC-25D3-4035-8464-51F619102956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPSocket-Client", "TCPSocket-Client\TCPSocket-Client.csproj", "{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6469A517-EA12-49C7-A440-D105704801C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6469A517-EA12-49C7-A440-D105704801C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6469A517-EA12-49C7-A440-D105704801C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7492EC-25D3-4035-8464-51F619102956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7492EC-25D3-4035-8464-51F619102956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7492EC-25D3-4035-8464-51F619102956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7492EC-25D3-4035-8464-51F619102956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
