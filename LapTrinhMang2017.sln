@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPSocket-Server", "TCPSock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPSocket-Client", "TCPSocket-Client\TCPSocket-Client.csproj", "{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPSocket-Server", "UDPSocket-Server\UDPSocket-Server.csproj", "{B57106D4-CF52-4D18-A1D3-FF6824B10659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPSocket-Client", "UDPSocket-Client\UDPSocket-Client.csproj", "{6C7B4A6B-D0AB-4DF3-93E0-B65B3582480C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAB6C500-98EE-42D8-A1F6-C128DEFCDFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57106D4-CF52-4D18-A1D3-FF6824B10659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57106D4-CF52-4D18-A1D3-FF6824B10659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57106D4-CF52-4D18-A1D3-FF6824B10659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57106D4-CF52-4D18-A1D3-FF6824B10659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7B4A6B-D0AB-4DF3-93E0-B65B3582480C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7B4A6B-D0AB-4DF3-93E0-B65B3582480C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7B4A6B-D0AB-4DF3-93E0-B65B3582480C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7B4A6B-D0AB-4DF3-93E0-B65B3582480C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
